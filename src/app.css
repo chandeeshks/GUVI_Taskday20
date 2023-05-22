@@ -1,0 +1,8 @@
+html,body{
+    background-color: rgb(21, 131, 227);
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
